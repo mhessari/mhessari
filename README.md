@@ -9,10 +9,13 @@ A bilingual and detail-oriented professional with a background in finance and a 
 
 ## :wrench: Technologies
 
-![NodeJS](https://img.icons8.com/color/30/nodejs.png)
 ![ReactJS](https://img.icons8.com/color/30/react-native.png)
 ![JavaScript](https://img.icons8.com/color/30/javascript.png)
+![NodeJS](https://img.icons8.com/color/30/nodejs.png)
+![Linux](https://img.icons8.com/color/30/linux.png)
 ![Git](https://img.icons8.com/color/30/git.png)
 ![PostgreSQL](https://img.icons8.com/color/30/postgreesql.png)
+![َAnsible](https://img.icons8.com/color/30/ansible.png)
+![Terraform](https://img.icons8.com/color/30/terraform.png)
 
 </details>
