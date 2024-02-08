@@ -1,6 +1,6 @@
 # Hi, I'm Max
 
-With over 6 years of experience as a web developer, I have honed my skills in both technical and soft skills. I thrive in team environments and enjoy working collaboratively to overcome challenges and achieve success. I am always eager to learn and grow, and I relish the opportunity to take on difficult tasks and turn them into successes. My expertise includes Node.js and React, as well as experience with Angular and Vue.
+A bilingual and detail-oriented professional with a background in finance and a strong desire to transition into the field of DevOps and Software Development. I have honed my skills in both technical and soft skills. I thrive in team environments and enjoy working collaboratively to overcome challenges and achieve success. I am always eager to learn and grow, and I relish the opportunity to take on difficult tasks and turn them into successes.
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/max-hessari/) 
 [![Skype](https://img.shields.io/badge/skype-%2312100E.svg?&style=for-the-badge&logo=skype&logoColor=white")](https://join.skype.com/neA2yOKUpjXl) 
