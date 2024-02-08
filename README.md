@@ -1,4 +1,4 @@
-# Hi, I'm Max
+# Hi, I'm Max!
 
 A bilingual and detail-oriented professional with a background in finance and a strong desire to transition into the field of DevOps and Software Development. I have honed my skills in both technical and soft skills. I thrive in team environments and enjoy working collaboratively to overcome challenges and achieve success. I am always eager to learn and grow, and I relish the opportunity to take on difficult tasks and turn them into successes.
 
